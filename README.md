@@ -1,6 +1,7 @@
-# Exercise-2d-Scenes-And-Menus
+#Project02-SpaceShooter
 
-Exercise for MSCH-C220
+Exercise for MSCH-C220 
+2/10/2024
 
 A basic space-shooter arcade game, created in Unity.
 
